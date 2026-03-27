@@ -11,3 +11,5 @@ This repository demonstrates my onboarding process using a coding assistant, Git
 - Initial repository setup
 - Add assistant-generated draft
 - Add final edited version
+
+video link: https://youtu.be/MiF44L2Y3d4 
